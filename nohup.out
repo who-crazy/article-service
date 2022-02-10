@@ -1,0 +1,167 @@
+[DEBUG] Event Hyperf\Framework\Event\BootApplication handled by Hyperf\Config\Listener\RegisterPropertyHandlerListener listener.
+[DEBUG] Event Hyperf\Framework\Event\BootApplication handled by Hyperf\ServiceGovernanceConsul\Listener\RegisterDriverListener listener.
+[DEBUG] Event Hyperf\Framework\Event\BootApplication handled by Hyperf\RpcClient\Listener\AddConsumerDefinitionListener listener.
+[DEBUG] Event Hyperf\Framework\Event\BootApplication handled by Hyperf\Paginator\Listener\PageResolverListener listener.
+[DEBUG] Event Hyperf\Framework\Event\BootApplication handled by Hyperf\JsonRpc\Listener\RegisterProtocolListener listener.
+[DEBUG] Event Hyperf\Framework\Event\BootApplication handled by Hyperf\ExceptionHandler\Listener\ExceptionHandlerListener listener.
+[DEBUG] Event Hyperf\Framework\Event\BootApplication handled by Hyperf\DbConnection\Listener\RegisterConnectionResolverListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\Framework\Event\BeforeMainServerStart handled by Hyperf\Process\Listener\BootProcessListener listener.
+[INFO] Worker#2 started.
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\AfterWorkerStartListener listener.
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\InitProcessTitleListener listener.
+[INFO] Worker#1 started.
+[INFO] Worker#3 started.
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\AfterWorkerStartListener listener.
+[DEBUG] Event Hyperf\Framework\Event\OnManagerStart handled by Hyperf\Server\Listener\InitProcessTitleListener listener.
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\InitProcessTitleListener listener.
+[DEBUG] Event Hyperf\Framework\Event\OnStart handled by Hyperf\Server\Listener\InitProcessTitleListener listener.
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\AfterWorkerStartListener listener.
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\InitProcessTitleListener listener.
+[DEBUG] Event Hyperf\Framework\Event\MainWorkerStart handled by Hyperf\ServiceGovernance\Listener\RegisterServiceListener listener.
+[INFO] Worker#0 started.
+[INFO] HTTP Server listening at 0.0.0.0:9603
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\AfterWorkerStartListener listener.
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\InitProcessTitleListener listener.
+[2022-01-27 10:54:48 *311.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#2 is closed
+[2022-01-27 10:54:57 *310.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#46 is closed
+[2022-01-27 10:55:13 *310.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#126 is closed
+[2022-01-27 10:55:32 *310.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#225 is closed
+[DEBUG] Event Hyperf\Framework\Event\BootApplication handled by Hyperf\Config\Listener\RegisterPropertyHandlerListener listener.
+[DEBUG] Event Hyperf\Framework\Event\BootApplication handled by Hyperf\ServiceGovernanceConsul\Listener\RegisterDriverListener listener.
+[DEBUG] Event Hyperf\Framework\Event\BootApplication handled by Hyperf\RpcClient\Listener\AddConsumerDefinitionListener listener.
+[DEBUG] Event Hyperf\Framework\Event\BootApplication handled by Hyperf\Paginator\Listener\PageResolverListener listener.
+[DEBUG] Event Hyperf\Framework\Event\BootApplication handled by Hyperf\JsonRpc\Listener\RegisterProtocolListener listener.
+[DEBUG] Event Hyperf\Framework\Event\BootApplication handled by Hyperf\ExceptionHandler\Listener\ExceptionHandlerListener listener.
+[DEBUG] Event Hyperf\Framework\Event\BootApplication handled by Hyperf\DbConnection\Listener\RegisterConnectionResolverListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\RpcServer\Event\AfterPathRegister handled by Hyperf\JsonRpc\Listener\RegisterServiceListener listener.
+[DEBUG] Event Hyperf\Framework\Event\BeforeMainServerStart handled by Hyperf\Process\Listener\BootProcessListener listener.
+[INFO] Worker#1 started.
+[INFO] Worker#2 started.
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\AfterWorkerStartListener listener.
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\AfterWorkerStartListener listener.
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\InitProcessTitleListener listener.
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\InitProcessTitleListener listener.
+[INFO] Worker#3 started.
+[DEBUG] Event Hyperf\Framework\Event\OnStart handled by Hyperf\Server\Listener\InitProcessTitleListener listener.
+[DEBUG] Event Hyperf\Framework\Event\OnManagerStart handled by Hyperf\Server\Listener\InitProcessTitleListener listener.
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\AfterWorkerStartListener listener.
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\InitProcessTitleListener listener.
+[DEBUG] Event Hyperf\Framework\Event\MainWorkerStart handled by Hyperf\ServiceGovernance\Listener\RegisterServiceListener listener.
+[INFO] Worker#0 started.
+[INFO] HTTP Server listening at 0.0.0.0:9603
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\AfterWorkerStartListener listener.
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\InitProcessTitleListener listener.
+[2022-01-27 10:56:14 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1004): session#135 is closed
+[2022-01-27 10:56:52 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#321 is closed
+[2022-01-27 10:56:58 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#351 is closed
+[2022-01-27 10:57:03 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1004): session#380 is closed
+[2022-01-27 10:57:06 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#392 is closed
+[2022-01-27 10:57:36 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#545 is closed
+[2022-01-27 10:57:36 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#544 is closed
+[2022-01-27 10:57:45 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#589 is closed
+[2022-01-27 10:57:45 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#590 is closed
+[2022-01-27 10:57:51 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#616 is closed
+[2022-01-27 10:57:54 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#634 is closed
+[2022-01-27 10:57:56 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#642 is closed
+[2022-01-27 10:57:57 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#649 is closed
+[2022-01-27 10:58:00 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#664 is closed
+[2022-01-27 10:58:12 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#721 is closed
+[2022-01-27 10:58:13 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#727 is closed
+[2022-01-27 10:58:21 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#767 is closed
+[2022-01-27 10:58:28 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#802 is closed
+[2022-01-27 10:58:44 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#884 is closed
+[2022-01-27 10:58:50 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#909 is closed
+[2022-01-27 10:58:53 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#925 is closed
+[2022-01-27 10:59:08 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1001 is closed
+[2022-01-27 10:59:15 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1034 is closed
+[2022-01-27 10:59:18 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1050 is closed
+[2022-01-27 10:59:45 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1182 is closed
+[2022-01-27 10:59:47 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1191 is closed
+[2022-01-27 11:00:08 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1297 is closed
+[2022-01-27 11:00:26 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1386 is closed
+[2022-01-27 11:00:30 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1410 is closed
+[2022-01-27 11:00:40 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1457 is closed
+[2022-01-27 11:00:40 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1456 is closed
+[2022-01-27 11:00:40 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1459 is closed
+[2022-01-27 11:00:46 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1490 is closed
+[2022-01-27 11:01:07 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1592 is closed
+[2022-01-27 11:01:13 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1621 is closed
+[2022-01-27 11:01:13 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1625 is closed
+[2022-01-27 11:01:18 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1647 is closed
+[2022-01-27 11:01:20 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1004): session#1660 is closed
+[2022-01-27 11:01:36 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1739 is closed
+[2022-01-27 11:01:38 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1004): session#1749 is closed
+[2022-01-27 11:01:44 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1780 is closed
+[2022-01-27 11:02:00 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1858 is closed
+[2022-01-27 11:02:00 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1860 is closed
+[2022-01-27 11:02:01 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1862 is closed
+[2022-01-27 11:02:02 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1867 is closed
+[2022-01-27 11:02:04 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1880 is closed
+[2022-01-27 11:02:09 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1905 is closed
+[2022-01-27 11:02:14 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1927 is closed
+[2022-01-27 11:02:22 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1967 is closed
+[2022-01-27 11:02:25 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#1984 is closed
+[2022-01-27 11:02:36 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#2036 is closed
+[2022-01-27 11:02:51 *348.2]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#2112 is closed
+[2022-01-27 11:02:51 *347.1]	NOTICE	ProcessFactory::end() (ERRNO 1005): session#2111 is closed

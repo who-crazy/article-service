@@ -30,7 +30,7 @@ return [
             'name' => 'jsonrpc-http',   //设置jsonrpc - http
             'type' => Server::SERVER_HTTP,
             'host' => '0.0.0.0',
-            'port' => 9602,
+            'port' => 9603,
             'sock_type' => SWOOLE_SOCK_TCP,
             'callbacks' => [
                 //Hyperf\JsonRpc\HttpServer::class

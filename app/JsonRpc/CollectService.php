@@ -21,11 +21,12 @@ class CollectService extends AbstractController implements CollectServiceInterfa
      */
     public function getList($params)
     {
+        $params['page_limit'] = 1;
         $list = \App\Model\Collect::getList(['id', 'title', 'desc', 'cover', 'link', 'cat_id', 'type'], $params, function ($query) use ($params) {
             //with
             $query->with('collectCategory')
                 ->with(['collectTags' => function ($_query) {
-                    $_query->select(['name']);
+                    $_query->select(['name', 'color']);
                 }]);
             //where
             if (isset($params['title']) && $params['title'] != '') {
@@ -257,9 +258,11 @@ class CollectService extends AbstractController implements CollectServiceInterfa
      */
     public function getTags($params)
     {
-        $tags = \App\Model\CollectTag::getList(['id', 'name'], $params);
+        $tags = \App\Model\CollectTag::getList(['id', 'name', 'color'], $params, function ($orm) {
+            $orm->with('collects');
+        });
         $tags->each(function ($item) {
-            $item->num = $item->collects()->count();
+            $item->num = $item->collects->count();
         });
 
         return $tags;
