@@ -450,4 +450,12 @@ class CollectService extends AbstractController implements CollectServiceInterfa
 
         return true;
     }
+
+    public function test($params)
+    {
+        Db::table('test')->insert([
+            'content' => date("Y-y-d H:i:s", time())
+        ]);
+
+    }
 }

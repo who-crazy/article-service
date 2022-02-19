@@ -86,4 +86,6 @@ interface CollectServiceInterface
      * @return mixed
      */
     public function applyCheck($params);
+
+    public function test($params);
 }
